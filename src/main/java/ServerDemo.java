@@ -69,8 +69,8 @@ public class ServerDemo {
                                     }
 
                                     //往客户端发送数据
-                                    socket.getOutputStream().write(("收到了一串数据").getBytes(StandardCharsets.UTF_8));
-                                    socket.getOutputStream().flush();
+//                                    socket.getOutputStream().write(("The Data is:").getBytes(StandardCharsets.UTF_8));
+//                                    socket.getOutputStream().flush();
 
                                 }
                             } catch (IOException e) {

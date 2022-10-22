@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="748f55eb-0be0-4e26-939f-caa96bf4fefc" name="变更" comment="重构了服务器，现在本地调试已经可以接收图片">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="748f55eb-0be0-4e26-939f-caa96bf4fefc" name="变更" comment="重构了服务器，现在本地调试已经可以接收图片" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +127,7 @@
       <workItem from="1666185538074" duration="599000" />
       <workItem from="1666426231926" duration="6311000" />
       <workItem from="1666445815977" duration="13000" />
-      <workItem from="1666446412647" duration="757000" />
+      <workItem from="1666446412647" duration="1077000" />
     </task>
     <task id="LOCAL-00001" summary="V1:初步实现图传">
       <created>1665283501762</created>
@@ -159,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666446717458</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="重构了服务器，现在本地调试已经可以接收图片">
+      <created>1666447398891</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666447398891</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
