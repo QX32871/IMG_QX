@@ -18,7 +18,7 @@ public class ServerDemo {
         ServerSocket server = new ServerSocket(2221);
         while (true) {
             Socket socket = server.accept();
-            System.out.println("waiting for data......");
+            System.out.println("Connected Waiting For Data......");
             new Thread(
                     new Runnable() {
                         @Override
